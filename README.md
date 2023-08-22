@@ -5,7 +5,7 @@
 ![alt text](https://github.com/KangningZhang/IE-GADCI/blob/main/Figures/Picture2.png)
 
 ## System Requirements
-#### 1. Quadro RTX8000 48GB is used in this paper, but any GPU processor better than GTX960 6GB is acceptable. A CUDA compatible GPU is preferred.
+#### 1. Quadro RTX8000 48GB is used in this project, but any GPU processor better than GTX960 6GB is acceptable. A CUDA compatible GPU is preferred.
 #### 2. Tensorflow 2.9.0
 #### 3. Anaconda
 
